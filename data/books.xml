@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book>
+    <id>1</id>
+    <title>Trà sữa cho tâm hồn</title>
+    <author>Nhiều tác giả</author>
+    <image>trasua.jpg</image>
+    <publish>2015</publish>
+    <type>Truyện</type>
+    <typeID>1</typeID>
+    <price>50000</price>
+    <discount>5</discount>
+  </book>  
+  <book>
+    <id>2</id>
+    <title>Chuông nguyện hồn ai</title>
+    <author>Hemingway</author>
+    <image>chuongnguyen.jpg</image>
+    <publish>2014</publish>
+    <type>Truyện</type>
+    <typeID>1</typeID>
+    <price>45000</price>
+   <discount>15</discount>
+  </book>  
+ <book>
+   <id>3</id>
+    <title>Trên đường băng</title>
+    <author>Tony buổi sáng</author>
+    <image>tonybuoisang.jpg</image>
+    <publish>2014</publish>
+    <type>Truyện</type>
+   <typeID>1</typeID>
+    <price>54000</price>
+  <discount>6</discount>
+  </book> 
+<book>
+    <id>4</id>
+    <title>Thả một bè lau</title>
+    <author>Thích Nhất Hạnh</author>
+    <image>thamotbelau.jpg</image>
+    <publish>2014</publish>
+    <type>Tôn giáo</type>
+  <typeID>2</typeID>
+    <price>54000</price>
+  <discount>10</discount>
+  </book> 
+<book>
+  <id>5</id>
+    <title>Giọt nước cành dương</title>
+    <author>Thích Nhất Hạnh</author>
+    <image>giotnuoccanhduong.jpg</image>
+    <publish>2014</publish>
+    <type>Tôn giáo</type>
+  <typeID>2</typeID>
+    <price>74000</price>
+  <discount>10</discount>
+  </book>
+<book>
+  <id>6</id>
+    <title>Có con mọt sách</title>
+    <author>Đô Hồng Ngọc</author>
+    <image>motsach.jpg</image>
+    <publish>2014</publish>
+    <type>Thiếu nhi</type>
+  <typeID>3</typeID>
+    <price>64000</price>
+  <discount>20</discount>
+  </book>
+<book>
+     <id>7</id>
+    <title>Viêt cho các bà mẹ sinh con đầu lòng</title>
+    <author>Đô Hồng Ngọc</author>
+    <image>bamesinhcon.jpg</image>
+    <publish>2014</publish>
+    <type>Sức khỏe</type>
+  <typeID>4</typeID>
+    <price>47000</price>
+  <discount>2</discount>
+  </book>
+<book>
+  <id>8</id>
+    <title>Thiền và sức khỏe</title>
+    <author>Đô Hồng Ngọc</author>
+    <image>thienvasuckhoe.jpg</image>
+    <publish>2014</publish>
+    <type>Sức khỏe</type>
+    <typeID>4</typeID>
+    <price>67000</price>
+  <discount>5</discount>
+  </book>
+<book>
+  <id>9</id>
+    <title>Tâm thành và lộc đời</title>
+    <author>Nguyễn Thị Minh Ngọc</author>
+    <image>tamthanh.jpg</image>
+    <publish>2015</publish>
+    <type>Hồi ký</type>
+  <typeID>5</typeID>
+    <price>57000</price>
+  <discount>5</discount>
+  </book>
+<book>
+  <id>10</id>
+    <title>Cánh đồng bất tận</title>
+    <author>Nguyễn Ngọc Tư</author>
+    <image>canhdongbattan.jpg</image>
+    <publish>2015</publish>
+    <type>Truyện</type>
+  <typeID>1</typeID>
+    <price>67000</price>
+  <discount>5</discount>
+  </book>
+<book>
+  <id>11</id>
+    <title>Ngọn đèn không tắt</title>
+    <author>Nguyễn Ngọc Tư</author>
+    <image>ngondenkhongtat.jpg</image>
+    <publish>2015</publish>
+    <type>Truyện</type>
+  <typeID>1</typeID>
+    <price>67000</price>
+  <discount>5</discount>
+  </book>
+</books>
